@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi, I'm Apu 👋
 
-<!--
-**apu16-334-coder/apu16-334-coder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend Developer focused on building secure, well-structured REST APIs with Node.js and Express.
 
-Here are some ideas to get you started:
+## What I Do
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I build backend systems with clean architecture, role-based access control, and data integrity as core priorities — not afterthoughts. My recent work focuses on designing authorization models and cascade logic that keep data consistent without sacrificing query simplicity.
+
+## Featured Projects
+
+### [Team Collaboration & Issue Tracker API](https://github.com/apu16-334-coder/Team-Collaboration-Issue-Tracker-REST-API-Node.js-Express-MongoDB)
+A Jira-style backend with role-based access (admin / team_lead / member), write-time cascading soft deletes, and full CRUD across teams, projects, issues, and comments.
+**Stack:** Node.js, Express, MongoDB, Mongoose, JWT
+
+### [Task Manager REST API](https://github.com/apu16-334-coder/task-manager-rest-api-nodejs-express-mongodb)
+A clean-architecture task management API with ownership-based access control, advanced query filtering, and centralized error handling.
+**Stack:** Node.js, Express, MongoDB, Mongoose, JWT
+
+## Tech Stack
+
+`JavaScript` `Node.js` `Express.js` `MongoDB` `Mongoose` `JWT` `REST APIs`
+
+## Currently Learning
+
+React → Next.js → exploring NestJS and TypeScript next
+
+## Let's Connect
+
+[LinkedIn](#) · [Email](mailto:mdapuhossain.dev@gmail.com)
