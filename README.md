@@ -31,6 +31,4 @@ React → Next.js → exploring NestJS and TypeScript next
 
 ## Let's Connect
 
-## Let's Connect
-
 [LinkedIn](#) · [📧 mdapuhossain.dev@gmail.com](mailto:mdapuhossain.dev@gmail.com)
