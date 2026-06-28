@@ -12,9 +12,14 @@ I build backend systems with clean architecture, role-based access control, and 
 A Jira-style backend with role-based access (admin / team_lead / member), write-time cascading soft deletes, and full CRUD across teams, projects, issues, and comments.
 **Stack:** Node.js, Express, MongoDB, Mongoose, JWT
 
-### [Task Manager REST API](https://github.com/apu16-334-coder/task-manager-rest-api-nodejs-express-mongodb)
+### [Task Manager REST API](https://github.com/apu16-334-coder/Task-Manager-REST-API-Node.js-Express-MongoDB)
 A clean-architecture task management API with ownership-based access control, advanced query filtering, and centralized error handling.
 **Stack:** Node.js, Express, MongoDB, Mongoose, JWT
+
+### [Motor Cycle Shop Sales Tracker](https://github.com/apu16-334-coder/MotorCycleShopSalesTracker)
+Built for a real motorcycle accessories shop in Dhaka to replace paper-based daily sales and expense tracking
+No frameworks, no backend — IIFE-scoped JS with localStorage as the data layer; works fully offline
+**Stack:** Javascript
 
 ## Tech Stack
 
