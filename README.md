@@ -12,6 +12,10 @@ I build backend systems with clean architecture, role-based access control, and 
 A Jira-style backend with role-based access (admin / team_lead / member), write-time cascading soft deletes, and full CRUD across teams, projects, issues, and comments.
 **Stack:** Node.js, Express, MongoDB, Mongoose, JWT
 
+### [Fantastic-Garden-REST-API-Node.js-Express-MySQL](https://github.com/apu16-334-coder/Fantastic-Garden-REST-API-Node.js-Express-MySQL)
+A relational-database backend for a garden business — products, services, staff, and customer orders — built to demonstrate SQL/ORM skills alongside my MongoDB work. Role-based access (admin / staff / customer), transaction-wrapped cascade logic (staff deactivation, order-service completion propagation), and server-side price calculation to prevent client-side tampering.
+**Stack:** Node.js, Express, MySQL, Sequelize, JWT
+
 ### [Task Manager REST API](https://github.com/apu16-334-coder/Task-Manager-REST-API-Node.js-Express-MongoDB)
 A clean-architecture task management API with ownership-based access control, advanced query filtering, and centralized error handling.
 **Stack:** Node.js, Express, MongoDB, Mongoose, JWT
